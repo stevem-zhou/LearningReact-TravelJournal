@@ -1,0 +1,24 @@
+header {
+  background-color: #f55a5a;
+  height: 55px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0px;
+}
+
+header > img {
+  width: 24px;
+  height: 24px;
+  margin-right: 7px;
+}
+
+header > span {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14.4608px;
+  line-height: 18px;
+  letter-spacing: -0.075em;
+  color: white;
+}
